@@ -1,0 +1,37 @@
+[
+  {
+    "name": "1주차",
+    "color": "FBFBFB",
+    "description": "1장. 데이터 타입"
+  },
+  {
+    "name": "2주차",
+    "color": "F1F7FC",
+    "description": "2장. 실행 컨텍스트"
+  },
+  {
+    "name": "3주차",
+    "color": "E8F9FF",
+    "description": "3장. this"
+  },
+  {
+    "name": "4주차",
+    "color": "D6E9FF",
+    "description": "4장. 콜백 함수"
+  },
+  {
+    "name": "5주차",
+    "color": "C4D9FF",
+    "description": "5장. 클로저"
+  },
+  {
+    "name": "6주차",
+    "color": "C5CCFF",
+    "description": "6장. 프로토타입"
+  },
+  {
+    "name": "7주차 스터디 완료 🎉",
+    "color": "C5BAFF",
+    "description": "7장. 클래스"
+  }
+]
